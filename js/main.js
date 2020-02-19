@@ -58,7 +58,7 @@ function onSuccess(jsonReturn) {
 }
 
 function onError() {
-    $('#home').html('I failed. Nope!');
+    $('#home').html('I failed. Nope!Try LIVE server');
 }
 
 
