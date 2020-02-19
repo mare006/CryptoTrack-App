@@ -1,2 +1,2 @@
-# QuantoxTest
+# CryptoTrack App
 For testing
